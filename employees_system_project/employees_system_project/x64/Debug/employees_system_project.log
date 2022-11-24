@@ -1,0 +1,4 @@
+﻿  employees_system_project.cpp
+C:\Users\jana2\Downloads\data structure\employees_system_project\employees_system_project\employees_system_project.cpp(261): error C4700: uninitialized local variable 'number' used
+C:\Users\jana2\Downloads\data structure\employees_system_project\employees_system_project\employees_system_project.cpp(185): warning C4715: 'EmployeeList<Employee>::delete_employee': not all control paths return a value
+C:\Users\jana2\Downloads\data structure\employees_system_project\employees_system_project\employees_system_project.cpp(248): warning C4715: 'EmployeeList<Employee>::update_info': not all control paths return a value
